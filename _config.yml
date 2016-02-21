@@ -1,3 +1,4 @@
+baseurl: /jekyll
 port: 4000
 auto: true
 safe: true
